@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Philippe Esling"
+title                    : "Carlos Agon"
 title_separator          : "-"
-name                     : "Philippe Esling"
-description              : "Academic website for Pr. Esling."
+name                     : "Carlos Agon"
+description              : "Academic website for Pr. Agon."
 url                      : "https://esling.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
