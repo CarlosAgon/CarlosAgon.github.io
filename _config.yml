@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philippe Esling"
+  name             : "Carlos Agon"
   avatar           : "bio-photo.jpg"
-  bio              : "Associate Professor  IRCAM - UPMC"
+  bio              : "Professor  IRCAM - UPMC"
   location         : "Paris"
-  email            : "esling@ircam.fr"
+  email            : "agonc@ircam.fr"
   uri              :
   bitbucket        :
   codepen          :
